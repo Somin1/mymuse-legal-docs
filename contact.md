@@ -1,6 +1,6 @@
 # 📞 Contact Us
 
-Have questions, feedback, or refund requests?
+Have questions, feedback?
 
 You can contact our support team at:
 
