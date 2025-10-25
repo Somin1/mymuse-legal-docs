@@ -13,7 +13,7 @@ MyMuse (“we,” “our,” or “us”) is committed to protecting your privac
 ## Information We Collect
 
 - **Personal Info:** Name, email address, gender (optional), profile avatar  
-- **Payment Info:** Collected via Razorpay. *We do not store card details.*  
+- **Payment Info:** Collected via googleplay. *We do not store card details.*  
 - **App Activity:** Prompts, chat history, image generation requests  
 
 ---
