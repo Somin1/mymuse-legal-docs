@@ -6,6 +6,9 @@ Legal policy pages for the MyMuse app
 - [Refund Policy](https://somin1.github.io/mymuse-legal-docs/refund-policy.html)
 - [Terms and Conditions](https://somin1.github.io/mymuse-legal-docs/terms-and-conditions.html)
 - [Contact](https://somin1.github.io/mymuse-legal-docs/contact.html)
+ - [Delete Account Page](https://somin1.github.io/mymuse-legal-docs/delete-account.html)
+- [Child Safety Standards](https://somin1.github.io/mymuse-legal-docs/child-safety.html)
+
 <h2>📱 App Preview</h2>
 
 <h3>🔹 Chat Screen</h3>
