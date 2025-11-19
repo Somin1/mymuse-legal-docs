@@ -138,10 +138,4 @@ We respond within 24–72 hours.
 
 ---
 
-### ✅ This version will work perfectly with GitHub Pages and Play Store.
 
-If you want, I can also rewrite (clean GitHub-friendly versions):
-✔ Terms & Conditions
-✔ Refund Policy
-✔ Delete Account Page
-✔ Child Safety Standards Page
