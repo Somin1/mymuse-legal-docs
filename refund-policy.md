@@ -1,6 +1,6 @@
 # 📜 3. Cancellation & Refund Policy
 
-**Refund and Cancellation Policy for MyMuse**
+**Refund and Cancellation Policy for MuseVerse AI Girlfriend**
 
 _Last Updated: August 03, 2025_
 
