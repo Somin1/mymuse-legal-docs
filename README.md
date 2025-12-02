@@ -1,5 +1,5 @@
 # MuseVerse AI Girlfriend-legal-docs
-Legal policy pages for the MyMuse app
+Legal policy pages for the MuseVerse AI Girlfriend app
 ## 📄 Legal Policy Pages for MyMuse App
 
 - [Privacy Policy](https://somin1.github.io/mymuse-legal-docs/privacy-policy.html)
