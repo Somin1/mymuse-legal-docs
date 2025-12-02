@@ -1,4 +1,4 @@
-# Privacy Policy for MyMuse – AI Companion App
+# Privacy Policy for MuseVerse AI Girlfriend App
 
 **Last Updated: August 03, 2025**
 
