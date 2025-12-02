@@ -1,6 +1,6 @@
 # 📜 2. Terms & Conditions
 
-**Terms and Conditions for MyMuse App**  
+**Terms and Conditions for MuseVerse AI Girlfriend App**  
 _Last Updated: August 03, 2025_
 
 ---
