@@ -1,4 +1,4 @@
-# mymuse-legal-docs
+# MuseVerse AI Girlfriend-legal-docs
 Legal policy pages for the MyMuse app
 ## 📄 Legal Policy Pages for MyMuse App
 
